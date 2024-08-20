@@ -1,7 +1,7 @@
 # ApiBasic-FrontEnd
 # FrontEnd - Gerenciamento de Usuários
 
-Este projeto é um frontend desenvolvido para inserir e deletar usuários com base em seus IDs.
+Este projeto é um frontend criado para gerenciar usuários, permitindo a inserção e exclusão com base em seus IDs. Ele foi desenvolvido para interagir com um backend, acessível no repositório api-basic (https://github.com/ud0uglas/api-basic) , que fornece a API para operações básicas de gerenciamento de usuários.
 
 ## Tecnologias Utilizadas
 
